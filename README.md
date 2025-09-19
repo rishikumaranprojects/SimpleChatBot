@@ -1,4 +1,3 @@
-# chatbot.py
 # A simple Gradio app to chat with a local Ollama model
 # Make sure you have Ollama running locally with the desired model.
 # Install required packages: pip install gradio requests
